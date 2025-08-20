@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to SmartBank cards related prod APIs "
+  message: "Welcome to SmartBank cards related webhook APIs "
   contactDetails:
     name: "Arun Kumar - Product Owner"
     email: "arun@smartbank.com"
