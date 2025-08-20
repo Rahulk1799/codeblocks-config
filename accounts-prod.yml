@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SmartBank accounts related prod APIs "
   contactDetails:
     name: "john clinton - QA Lead"
-    email: "clinton@smartbank.com"
+    email: "{cipher}239ac6cee766dda1bbae55e140195d834870ae4cb29ed0e8aa13368d289efdbb08ed27657129174f5ef2c775e26d0c6c"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
